@@ -6,7 +6,7 @@
   </a>
   <p align="center">
     <br>
-    E- commerce site template - with shopping cart and paypal intergration
+    Responsive E- commerce site template - with shopping cart and paypal intergration
     <br>
     </p>
   <a href="https://www.njhandcrafted.com">
