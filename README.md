@@ -10,9 +10,10 @@
     <br>
     </p>
   <a href="https://www.njhandcrafted.com">
-    <h3>Visit Website</h3>
+    <strong>Visit Website</strong>
        </a>
         <br>
+  <br>
  </div>
  <div align="center">
 <img width="80%"  alt="cas" src="https://user-images.githubusercontent.com/76784461/194621180-5ba9da6f-cb70-46e5-9294-42bce123af08.gif">
